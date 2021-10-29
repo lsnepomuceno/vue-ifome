@@ -13,7 +13,8 @@
 		"core-js": "^3.6.5",
 		"quasar": "^2.1.5",
 		"vue": "^3.2.19",
-		"vue-router": "^4.0.0-0"
+		"vue-router": "^4.0.0-0",
+		"vue3-carousel": "^0.1.29"
 	},
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^4.18.0",
